@@ -34,7 +34,7 @@ A musician-friendly note frequency reference.
 
 ---
 
-## Board Game Helper 🔗 https://apps.apple.com/us/app/board-game-helper/id6541754469
+### Board Game Helper 🔗 https://apps.apple.com/us/app/board-game-helper/id6541754469
 
 Keep track of your scores for a host of games, pick the first player and more with this handy helper app.
 
