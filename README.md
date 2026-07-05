@@ -23,8 +23,7 @@ A dual-channel boutique overdrive inspired by Bluesbreaker-style circuits also k
 
 ---
 
-### BPM2Time 
-🔗 https://github.com/tehguitarist/BPM2Time
+### BPM2Time 🔗 https://github.com/tehguitarist/BPM2Time
 
 A simple utility for converting musical tempo into practical delay and timing values.
 
