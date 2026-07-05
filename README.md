@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Leigh
 
 🎸 Musician. 🎛️ Audio tinkerer. 💻 Amateur software developer. 🎲 Board gamer.
+
 Started out by learning C++ for fun and knowledge, and now look where we are.
 
 ---
@@ -34,5 +35,3 @@ A simple utility for converting musical tempo into practical delay and timing va
 A musician-friendly note frequency reference.
 
 A lightweight tool that shows you what musical notes their corresponding frequencies, making it useful for synthesis, DSP development, tuning experiments and anyone working with pitch mathematically.
-
----
