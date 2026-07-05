@@ -12,8 +12,6 @@ Started out by learning C++ for fun and knowledge, and now look where we are.
 
 A transparent, touch-sensitive overdrive plugin inspired by the classic Timmy pedal. Circuit modelled, not profiled or captured.
 
-Tommy is a circuit-modelled audio plugin built for guitarists who want natural breakup and dynamic response rather than generic distortion. It uses Wave Digital Filter circuit modelling rather than capture or profiling techniques.
-
 ---
 
 ### Monarch of Tone 🔗 https://github.com/tehguitarist/Monarch-of-Tone
