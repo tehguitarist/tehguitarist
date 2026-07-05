@@ -14,7 +14,6 @@ A transparent, touch-sensitive overdrive plugin inspired by the classic Timmy pe
 
 Tommy is a circuit-modelled audio plugin built for guitarists who want natural breakup and dynamic response rather than generic distortion. It uses Wave Digital Filter circuit modelling rather than capture or profiling techniques.
 
-
 ---
 
 ### Monarch of Tone 🔗 https://github.com/tehguitarist/Monarch-of-Tone
@@ -33,4 +32,14 @@ A simple utility for converting musical tempo into practical delay and timing va
 
 A musician-friendly note frequency reference.
 
-A lightweight tool that shows you what musical notes their corresponding frequencies, making it useful for synthesis, DSP development, tuning experiments and anyone working with pitch mathematically.
+---
+
+## Board Game Helper 🔗 https://apps.apple.com/us/app/board-game-helper/id6541754469
+
+Keep track of your scores for a host of games, pick the first player and more with this handy helper app.
+
+---
+
+### Unmatched Matcher 🔗 https://apps.apple.com/us/app/unmatched-matcher/id6593660939
+
+Ever struggled to find an even matchup when playing UnMatched (Board Game)? With this app, you'll get balanced matchups based on real data maximising fun, and reducing frustration! 
