@@ -20,6 +20,18 @@ A dual-channel boutique overdrive inspired by Bluesbreaker-style circuits also k
 
 ---
 
+### NoAmp Low Rider DI 🔗 https://github.com/tehguitarist/NoAmp-Low-Rider-DI
+
+All three revisions of the legendary Bass Driver DI, circuit modelled and ready to add some clank to your bass.
+
+---
+
+### Obsidian B7000 🔗 https://github.com/tehguitarist/Obsidian-B7000
+
+When you need something different from a BDDI, there is the Microtubes B7K Ultra. This is a circuit modelled plugin of that exact pedal.
+
+---
+
 ### BPM2Time 🔗 https://github.com/tehguitarist/BPM2Time
 
 A simple utility for converting musical tempo into practical delay and timing values.
