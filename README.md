@@ -8,6 +8,12 @@ Started out by learning C++ for fun and knowledge, and now look where we are.
 
 ## 🎛 Featured Projects
 
+### Phase Align 🔗 https://github.com/tehguitarist/PhaseAlign
+
+A CPU light tool to lock in multi-mic sources, DI/Amp situations, or any time you need to fix the phase between two tracks. Even has an analysis mode to help get you there faster as a bonus!
+
+---
+
 ### Tommy 🔗 https://github.com/tehguitarist/Tommy
 
 A transparent, touch-sensitive overdrive plugin inspired by the classic Timmy pedal. Circuit modeled, not profiled or captured.
