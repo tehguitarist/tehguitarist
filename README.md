@@ -8,6 +8,12 @@ Started out by learning C++ for fun and knowledge, and now look where we are.
 
 ## 🎛 Featured Projects
 
+### REV-246 🔗 https://github.com/tehguitarist/REV-246
+
+A free, open-source digital reverb inspired by the EMT 246, the rare mid 80s studio reverb prized for its dense, smooth tails and period grit. Five programmes cover everything from tight rooms to twenty-second cathedrals, plus gated and reverse modes, switchable 16-bit and transformer character, a ducker and stereo width. AU, VST3 and standalone.
+
+---
+
 ### Phase Align 🔗 https://github.com/tehguitarist/PhaseAlign
 
 A CPU light tool to lock in multi-mic sources, DI/Amp situations, or any time you need to fix the phase between two tracks. Even has an analysis mode to help get you there faster as a bonus!
