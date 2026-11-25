@@ -8,6 +8,12 @@ Started out by learning C++ for fun and knowledge, and now look where we are.
 
 ## 🎛 Featured Projects
 
+### YREV57 🔗 https://github.com/tehguitarist/YREV57
+
+A free, open-source digital reverb inspired by the Yamaha REV7 and REV5, the mid 80s 16-bit studio workhorses. An era switch flips between the 1985 and 1987 machines, with the converters modelled around a reverb engine of its own, both units' factory programmes, early reflections, an FX slot, analogue and digital EQ, and a secret preset hiding behind the era keys. AU, VST3, LV2 and standalone.
+
+---
+
 ### REV-246 🔗 https://github.com/tehguitarist/REV-246
 
 A free, open-source digital reverb inspired by the EMT 246, the rare mid 80s studio reverb prized for its dense, smooth tails and period grit. Five programmes cover everything from tight rooms to twenty-second cathedrals, plus gated and reverse modes, switchable 16-bit and transformer character, a ducker and stereo width. AU, VST3 and standalone.
